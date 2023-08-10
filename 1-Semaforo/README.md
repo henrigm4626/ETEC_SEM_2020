@@ -8,7 +8,7 @@
 ## ℹMateriais
 - 1 Arduino UNO
 - 1 Protoboard
-- 5 Resistores de 1Ω
+- 5 Resistores de 1kΩ
 - 2 LEDs Verdes
 - 2 LEDs Vermelhos
 - 1 LED Amarelo
