@@ -27,9 +27,27 @@ https://www.tinkercad.com/things/4SFSA9rY1Pb
 - 1 Arduino UNO
 - 1 Protoboard
 - 3 Resistores de 100Ω
-- - 1 Potenciômetro 250kΩ
+- 1 Potenciômetro 250kΩ
 - 3 LEDs Vermelhos
 - 10 Jumpers
 
 ## ⚙️Funcionamento
 Ao mexer nos diferentes níveis do potênciometro, os LEDs irão acender (ou apagar) progessivamente.
+
+# Servomotor com Potenciômetro
+
+![image](https://github.com/henrigm4626/ETEC_SEM_2020/assets/88845710/1d2278a1-adfc-4e94-bb2a-76675f2c7583)
+
+
+## 🌐Link do Projeto
+
+
+## ℹMateriais
+- 1 Arduino UNO
+- 1 Protoboard
+- 1 Potenciômetro 250kΩ
+- 1 Micro Servomotor
+- 10 Jumpers
+
+## ⚙️Funcionamento
+Ao mexer nos diferentes níveis do potênciometro, a direção do servomotor é alterada.
