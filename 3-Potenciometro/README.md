@@ -40,7 +40,7 @@ Ao mexer nos diferentes níveis do potênciometro, os LEDs irão acender (ou apa
 
 
 ## 🌐Link do Projeto
-
+https://www.tinkercad.com/things/9fkeOVLb25e
 
 ## ℹMateriais
 - 1 Arduino UNO
