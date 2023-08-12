@@ -23,6 +23,5 @@ void loop(){
     digitalWrite(A, LOW);
     digitalWrite(B, LOW);
     digitalWrite(C, HIGH);
-  delay (sensorValue);
-         
+  delay (sensorValue);        
 }
