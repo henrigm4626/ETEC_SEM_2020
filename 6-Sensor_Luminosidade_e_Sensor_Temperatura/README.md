@@ -42,7 +42,7 @@ mas se a temperatura ambiente for maior, o LED e o Buzzer serão ativados.
 
 # Sensor LDR e Sensor de Temperatura com LED e Buzzer
 
-![image](https://github.com/henrigm4626/ETEC_SEM_2020/assets/88845710/28ab89c3-c192-465a-9e8a-1ca48cb275bf)
+![image](https://github.com/henrigm4626/ETEC_SEM_2020/assets/88845710/853856ef-e185-452c-b67c-05a77a400a8f)
 
 ## 🌐Link do Projeto
 https://www.tinkercad.com/things/8CZ4P97vKSd
