@@ -1,6 +1,6 @@
 # Projeto Cofre com Senha - Teclado 4x4
 
-![image](https://github.com/henrigm4626/ETEC_SEM_2020/assets/88845710/e2bb3312-87b5-4c7e-be71-898ad2fd8396)
+![image](https://github.com/henrigm4626/ETEC_SEM_2020/assets/88845710/f5359de7-0159-4ab6-bbc3-cf6d6632b32c)
 
 ## 🌐Link do Projeto
 https://www.tinkercad.com/things/2nP72lGPUW0
